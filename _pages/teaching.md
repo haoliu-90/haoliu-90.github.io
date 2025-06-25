@@ -18,6 +18,16 @@ nav_order: 5
     <th style="padding: 10px;">Institution</th>
   </tr>
   <tr>
+    <td style="padding: 10px;">CIV 390 Introduction to Transportation Engineering: Statics</td>
+    <td style="padding: 10px;">Fall 2024</td>
+    <td style="padding: 10px;">Jackson State University</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">CIV 431/531 Traffic Engineering: Statics</td>
+    <td style="padding: 10px;">Spring 2025</td>
+    <td style="padding: 10px;">Jackson State University</td>
+  </tr>
+  <tr>
     <td style="padding: 10px;">CIV 222 Engineering Mechanics I: Statics</td>
     <td style="padding: 10px;">Fall 2024</td>
     <td style="padding: 10px;">Jackson State University</td>
