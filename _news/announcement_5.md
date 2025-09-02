@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-09-16 07:59:00-0400
+date: 2025-09-02 07:59:00-0400
 inline: true
 ---
 
-I have started working as an Assistant Professor at The University of Maine.
+Our paper "C-MP: A decentralized adaptive-coordinated traffic signal control using the Max Pressure framework" was accepted for publication in TR-B :sparkles: :smile:
