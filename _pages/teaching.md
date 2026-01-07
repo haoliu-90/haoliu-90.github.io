@@ -18,6 +18,11 @@ nav_order: 5
     <th style="padding: 10px;">Institution</th>
   </tr>
   <tr>
+    <td style="padding: 10px;">CIE 425 Transportation Safety</td>
+    <td style="padding: 10px;">Fall 2025</td>
+    <td style="padding: 10px;">University of Maine</td>
+  </tr>
+  <tr>
     <td style="padding: 10px;">CIV 390 Introduction to Transportation Engineering</td>
     <td style="padding: 10px;">Spring 2025</td>
     <td style="padding: 10px;">Jackson State University</td>
